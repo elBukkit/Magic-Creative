@@ -1,0 +1,8 @@
+examples:
+  creative:
+    instructions: |-
+      &8| &c&nCREATIVE ISLANDS &r
+      &8| &f Use &3/cast phase target_world world_water &f &r
+      &8| &e to get to the creative world &r
+      &8| &f Use &3/mnpc add creativemenu&f &r
+      &8| &e to add an NPC to guide you &r

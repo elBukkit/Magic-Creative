@@ -1,0 +1,18 @@
+creativemenu:
+  name: Creative Destinations
+  actions:
+    cast:
+      - class: Selector
+  parameters:
+    title: "Creative Destinations"
+    confirm: false
+    auto_close: true
+    free: true
+    options:
+      - item: none
+      - item: none
+      - item: none
+      - cast_spell: randomisland
+      - cast_spell: visitisland
+      - cast_spell: creativeshop
+

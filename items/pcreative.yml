@@ -1,0 +1,15 @@
+pcreative:
+  worth: 0.0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SHROOMLIGHT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"Creative
+        Protection"}],"text":""}'
+      lore:
+        - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"This
+        will protect a 300x255x300 area"}],"text":""}'
+        - '{"extra":[{"text":"Use /ps allow <player> to add members"}],"text":""}'

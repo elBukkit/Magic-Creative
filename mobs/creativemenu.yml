@@ -1,0 +1,8 @@
+creativemenu:
+  inherit: base_npc
+  name: Find an Island
+  interact_spell: creativemenu
+  villager_profession: cartographer
+  dialog:
+    - Visit other players' islands, or find somewhere new to build!
+    - Make sure to grab a protection stone if you're going to a new island.

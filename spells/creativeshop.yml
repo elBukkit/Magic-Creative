@@ -1,0 +1,16 @@
+creativeshop:
+  name: Creative Tools
+  description: "Get a protection stone to claim your island.\nPlease only take one at a time!"
+  icon: ender_chest{18001}
+  hidden: true
+  inherit: buyshop
+  parameters:
+    auto_close: true
+    free: true
+    title: "Creative Supplies"
+    items:
+      - none
+      - none
+      - none
+      - broomstick
+      - pcreative

@@ -1,0 +1,17 @@
+visitisland:
+  creator: NathanWolf
+  creator_id: 4cb358ae-719c-4423-93c7-8769ce46e9c3
+  name: Visit an Island
+  description: "Visit another player's island. Make sure you have an Arcane Stone so you can get back!"
+  icon: jungle_door{18001}
+  actions:
+    cast:
+      - class: Recall
+  parameters:
+    target: self
+    allow_spawn: false
+    allow_warp: false
+    allow_all_fields: true
+    allow_fields: false
+    allow_death: false
+    allow_cross_world: false
