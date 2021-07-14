@@ -15,3 +15,4 @@ visitisland:
     allow_fields: false
     allow_death: false
     allow_cross_world: false
+    allow_friends: false
