@@ -1,0 +1,17 @@
+navigator:
+  actions:
+    cast:
+    - class: Recall
+  parameters:
+    allow_all: false
+    title: "Server Navigation"
+    options:
+      - type: placeholder
+      - type: placeholder
+      - type: placeholder
+      - warp: survival
+      - type: placeholder
+      - warp: creative
+      - type: placeholder
+      - type: placeholder
+      - type: placeholder

@@ -1,0 +1,12 @@
+navigator:
+  name: Navigator
+  lore: Travel to different areas of this server
+  icon: nether_star{CustomModelData:18001}
+  keep: true
+  undroppable: true
+  unstashable: true
+  locked: true
+  glow: true
+  active_spell: navigator
+  right_click: cast
+  left_click: cast

@@ -13,6 +13,29 @@ creativemenu:
       - item: none
       - item: none
       - cast_spell: randomisland
+      - item: none
       - cast_spell: visitisland
+      - item: none
+      - item: none
+      - item: none
+
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+      - item: none
+
+      - item: none
+      - item: none
+      - item: none
+      - item: none
       - cast_spell: creativeshop
+      - item: none
+      - item: none
+      - item: none
+      - item: none
 

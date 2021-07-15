@@ -1,0 +1,5 @@
+navigator:
+  enabled: false
+  keep: true
+  items:
+    - navigator
