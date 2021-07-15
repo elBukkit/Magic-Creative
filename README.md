@@ -12,7 +12,7 @@ Then add the following to your bukkit.yml:
 
 ```
 worlds:
-  world_water:
+  world_creative:
     generator: WaterWorld
 
 ```

@@ -1,4 +1,4 @@
-world_water:
+world_creative:
   autoload: true
   game_mode: creative
   leave_game_mode: survival
