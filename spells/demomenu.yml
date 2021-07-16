@@ -1,0 +1,50 @@
+demomenu:
+  name: Magic Demo
+  description: "Try out wands that demo progression from the survival and engineering configs"
+  icon: ender_chest{18001}
+  hidden: true
+  inherit: buyshop
+  parameters:
+    auto_close: true
+    free: true
+    title: "Magic Demo"
+    items:
+      - emerald_sword
+      - none
+      - wand:beginner
+      - wand:student
+      - wand:apprentice
+      - wand:master
+      - none
+      - broomstick
+      - none
+
+      - none
+      - none
+      - none
+      - wand:engineer
+      - wand:architect
+      - wand:conduit
+      - none
+      - none
+      - none
+
+      - none
+      - none
+      - toasted_sandwich
+      - goggles
+      - divinghelmet
+      - camera
+      - ocarina
+      - none
+      - none
+
+      - none
+      - none
+      - none
+      - wizardhelmet
+      - wizardchestplate
+      - wizardleggings
+      - wizardboots
+      - none
+      - none

@@ -1,0 +1,7 @@
+demomenu:
+  inherit: base_npc
+  name: Magic Demo
+  interact_spell: demomenu
+  villager_profession: cartographer
+  dialog:
+    - Come and try out wands that demo progression from the survival and engineering configs

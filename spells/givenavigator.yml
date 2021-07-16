@@ -1,0 +1,17 @@
+givenavigator:
+  name: Get a Navigator
+  description: Make sure to bring a navigator with you, in case you get lost!\nYou may have one already.
+  icon: nether_star{CustomModelData:18001}
+  actions:
+    cast:
+      - class: CheckInventory
+        actions:
+          - class: Message
+            message: You already have a Navigator! It's the weird glowing cube.\nOr it could look like a nether star, if you don't have the resource pack.
+        fail:
+          - class: Message
+            message: Here you go! Use this if you get lost.
+          - class: GiveItem
+  parameters:
+    target: self
+    item: navigator
