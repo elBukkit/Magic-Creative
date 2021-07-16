@@ -1,5 +1,8 @@
 navigator:
   enabled: false
   keep: true
+  # This makes sure the player has the item any time they change worlds
+  # This can be important if using PerWorldInventory
+  worlds: "*"
   items:
     - navigator
