@@ -8,7 +8,7 @@ creativemenu:
     confirm: false
     auto_close: true
     free: true
-    placeholder_icon: icon_placeholder
+    placeholder_icon: air
     options:
       - placeholder: true
       - placeholder: true

@@ -5,7 +5,7 @@ navigator:
   parameters:
     allow_all: false
     title: "Server Navigation"
-    placeholder_icon: icon_placeholder
+    placeholder_icon: air
     options:
       - placeholder: true
       - placeholder: true
