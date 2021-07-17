@@ -4,5 +4,7 @@ navigator:
   # This makes sure the player has the item any time they change worlds
   # This can be important if using PerWorldInventory
   worlds: "*"
+  # Try to get this item in the first slot on join
+  priority: 1000
   items:
     - navigator
