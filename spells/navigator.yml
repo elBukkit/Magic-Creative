@@ -5,13 +5,14 @@ navigator:
   parameters:
     allow_all: false
     title: "Server Navigation"
+    placeholder_icon: icon_placeholder
     options:
-      - type: placeholder
-      - type: placeholder
-      - type: placeholder
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
       - warp: survival
-      - type: placeholder
+      - placeholder: true
       - warp: creative
-      - type: placeholder
-      - type: placeholder
-      - type: placeholder
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true

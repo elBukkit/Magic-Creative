@@ -8,34 +8,35 @@ creativemenu:
     confirm: false
     auto_close: true
     free: true
+    placeholder_icon: icon_placeholder
     options:
-      - item: none
-      - item: none
-      - item: none
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
       - cast_spell: randomisland
-      - item: none
+      - placeholder: true
       - cast_spell: visitisland
-      - item: none
-      - item: none
-      - item: none
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
 
-      - item: none
-      - item: none
-      - item: none
-      - item: none
-      - item: none
-      - item: none
-      - item: none
-      - item: none
-      - item: none
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
 
-      - item: none
-      - item: none
-      - item: none
-      - item: none
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
       - item: pcreative
-      - item: none
-      - item: none
-      - item: none
-      - item: none
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
+      - placeholder: true
 
