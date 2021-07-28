@@ -13,6 +13,11 @@ randomisland:
           - class: Message
             message: Place down your &bCreative Protection&f stone when you arrive!
           - class: GiveItem
+      - class: Velocity
+        direction: 0,1,0
+        speed: 10
+      - class: Delay
+        delay: 750
       - class: Repeat
         actions:
           - class: ChangeContext
@@ -24,9 +29,10 @@ randomisland:
     target: self
     target_location:
       x: floor(rand(0,2))*2-1 * (floor(rand(1,20))*500-25)
-      y: 65
+      y: 200
       z: floor(rand(0,2))*2-1 * (floor(rand(1,20))*500-25)
-    vertical_range: 250
+    safe: false
+    direct: true
     stop_on_success: true
     repeat: 10
     unsafe: water,stationary_water,lava,stationary_lava
@@ -34,3 +40,5 @@ randomisland:
     prevent_passthrough: "!transparent_no_water"
     require_build: true
     item: pcreative
+    cooldown: 2000
+    quiet: true
