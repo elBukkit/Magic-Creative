@@ -5,7 +5,6 @@ navigator:
   keep: true
   undroppable: true
   unstashable: true
-  locked: true
   glow: true
   active_spell: navigator
   right_click: cast
