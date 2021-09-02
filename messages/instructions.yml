@@ -3,5 +3,5 @@ examples:
     instructions: |-
       `<title text="Creative Islands">`
       `<p>`&aA free-build world full of auto-generating islands
-      `<li>``<command command="/cast phase target_world world_creative" text="Phase to creative world">`
-      `<li>``<command command="/mnpc add creativemenu" text="Add Guide NPC">`
+      `<li>``<command command="cast phase target_world world_creative" text="Phase to creative world">`
+      `<li>``<command command="mnpc add creativemenu" text="Add Guide NPC">`
