@@ -33,9 +33,9 @@ randomisland:
   parameters:
     target: self
     target_location:
-      x: floor(rand(0,2))*2-1 * (floor(rand(1,20))*500-25)
+      x: (floor(rand(0,3))*2-1) * (floor(rand(1,20))*500-25)
       y: 200
-      z: floor(rand(0,2))*2-1 * (floor(rand(1,20))*500-25)
+      z: (floor(rand(0,3))*2-1) * (floor(rand(1,20))*500-25)
     safe: false
     direct: true
     repeat: 10
